@@ -1,6 +1,7 @@
 import React from 'react'
 import { Container, Row, Col } from 'react-bootstrap';
 import ManGo from './Projects/Web/ManGo';
+import Ringkasnet from './Projects/Web/ringkasnet';
 
 const WebApp = () => {
   return (
@@ -11,7 +12,7 @@ const WebApp = () => {
             </div>
             <Row>
                 <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
-                    <ManGo />
+                    <Ringkasnet />
                 </Col>
                 <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
                     <ManGo />
@@ -20,7 +21,7 @@ const WebApp = () => {
                     <ManGo />
                 </Col>
                 <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
-                    <ManGo />
+                    <Ringkasnet />
                 </Col>
             </Row>
         </Container>

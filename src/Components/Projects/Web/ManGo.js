@@ -6,7 +6,7 @@ import { Button } from 'react-bootstrap';
 const ManGo = () => {
   return (
     <div className="project-items">
-        <img className="img-fluid project-img" src={imgMango} alt="mango-project"/>
+        <img className="img-fluid project-img" src={imgMango} alt="ManGo-project"/>
         <a href="https://github.com/AriqF/man-go" className="projectLink">
             <h4>ManGo</h4>
         </a>
