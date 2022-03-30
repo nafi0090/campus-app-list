@@ -10,7 +10,7 @@ const Ringkasnet = () => {
             <h4>Ringkas-Net</h4>
         </a>
         <div className="box-body">
-            <Button href="http://vokasijaya.freecluster.eu/" variant="custom" className="btn btn-app">Get App</Button>
+            <Button href="https://github.com/AriqF/Ringkas-Net" variant="custom" className="btn btn-app">Get App</Button>
         </div> 
     </div>
   )

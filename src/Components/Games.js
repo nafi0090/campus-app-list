@@ -1,5 +1,6 @@
 import React from 'react'
 import LaraTales from './Projects/Games/LaraTales';
+import Pirate from './Projects/Games/pirate';
 import { Container, Row, Col } from 'react-bootstrap';
 
 const Games = () => {
@@ -11,7 +12,7 @@ const Games = () => {
             </div>
             <Row>
                 <Col xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
-                    <LaraTales />
+                    <Pirate />
                 </Col>
                 <Col xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
                     <LaraTales />

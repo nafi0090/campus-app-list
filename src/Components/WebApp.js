@@ -12,13 +12,13 @@ const WebApp = () => {
             </div>
             <Row>
                 <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
+                    <ManGo />
+                </Col>
+                <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
                     <Ringkasnet />
                 </Col>
                 <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
-                    <ManGo />
-                </Col>
-                <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
-                    <ManGo />
+                    <Ringkasnet />
                 </Col>
                 <Col  xl={4} lg={4} md={6} xs={12} data-aos="zoom-in" data-aos-duration="1000">
                     <Ringkasnet />
