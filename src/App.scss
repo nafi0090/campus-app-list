@@ -1,0 +1,56 @@
+.App {
+  text-align: center;
+}
+
+#page-title{
+  text-shadow: 4px 4px 6px rgba(243,240,240,0.36);
+}
+.page-section{
+  background-color: transparent;
+  padding-bottom: 18px;
+}
+
+#page-header{
+  width: 100%;
+  height: 100vh;
+  padding-top: 12em;
+}
+
+#page-header h1{
+  font-size: 3em;
+}
+
+#webProject{
+  padding-top: 14px;
+  margin-top: 32px;
+}
+
+.btn-explore{
+  background-color: #f5ba14;
+  transition: 0.2s background-color ease-in;
+  color: #fff;
+  border-radius: 2px !important;
+  padding: 14px 36px;
+  margin-top: 14px;
+}
+
+.btn-explore:hover{
+  background-color: #ee941a;
+  color: #fff;
+}
+
+.btn-app{
+  background-color: #1aaade;
+  transition: 0.2s background-color ease-in;
+  color: #fff;
+  border-radius: 2px !important;
+  padding: 8px 20px;
+  margin-top: 8px;
+}
+
+.btn-app:hover{
+  background-color: #139CCE;
+  color: #fff;
+}
+
+

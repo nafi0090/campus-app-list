@@ -1,0 +1,11 @@
+@import 'bootstrap/dist/css/bootstrap.min.css';
+@import 'utils.scss';
+
+body {
+  margin: 0;
+  background-color: #1a1b1f;
+  color: #FDFCFC;
+  font-family: 'Poppins', sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
